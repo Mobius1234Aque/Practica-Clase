@@ -6,6 +6,6 @@ import WindiCSS from 'vite-plugin-windicss';
 export default defineConfig({
   plugins: [react(), WindiCSS()],
   build: {
-    outDir: 'builds', // Cambia 'builds' al nombre de la carpeta que prefieras
+    outDir: 'build', // Cambia 'builds' al nombre de la carpeta que prefieras
   },
 });
