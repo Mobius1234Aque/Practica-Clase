@@ -1,6 +1,6 @@
 import React from "react";
 import { Carousel } from "antd";
-import imagensita from "C:/Users/HP/Downloads/zonita.png";
+import imagensita from "../img/zonita.png";
 
 export const Carrusel = () => {
   const onChange = (currentSlide) => {
