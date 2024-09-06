@@ -41,7 +41,7 @@
     "sqlite3": "^5.1.7",
     "tailwindcss": "^3.3.5",
     "tw-elements-react": "^1.0.0-alpha2",
-    "twilio": "^4.21.0",
+    "twilio": "^5.3.0",
     "vite-plugin-windicss": "^1.9.2",
     "xlsx": "^0.18.5"
   },
