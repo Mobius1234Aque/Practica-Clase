@@ -1,6 +1,6 @@
 name: hola mundito
 
-on:[push]
+on: [push]
 
 jobs:
   uno:
